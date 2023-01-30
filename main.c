@@ -2,8 +2,7 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
- 
-//QOTD RFC 865 protocol coded in C
+
  
 #define PORT 17 // QOTD is on port 17
 #define QUOTE "This is the quote of the day."
